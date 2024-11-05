@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # com.cboy.ai
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
@@ -60,3 +61,6 @@ If you want to learn more about building native executables, please consult <htt
 Easily start your REST Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
+=======
+# quarkus-langchain4j-demo
+>>>>>>> eb2229af3589094da62e84f1be3e66e0055cd417
