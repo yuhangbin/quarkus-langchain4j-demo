@@ -1,4 +1,5 @@
 # code-with-quarkus
+https://github.com/quarkusio/quarkus-langchain4j-workshop
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
